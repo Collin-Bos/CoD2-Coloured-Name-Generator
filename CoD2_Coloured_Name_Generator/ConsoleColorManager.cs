@@ -59,7 +59,7 @@ internal static partial class ConsoleColorManager
         new(new(153, 153, 153), "9", "Grey")
     ];
 
-    internal static string BlackColorIndex = "0"; // Extra checks needed for black, because it works different in COD 2
+    internal static string BlackColorIndex = "0"; // Extra checks needed for black, because the syntax is sligtly different in COD 2
 
     internal static void SetForegroundColor(RGB rgb) =>
         Console.Write($"\x1b[38;2;{rgb.Red};{rgb.Green};{rgb.Blue}m");
