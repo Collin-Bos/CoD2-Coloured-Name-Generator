@@ -6,6 +6,12 @@ This tool allows you to visually craft names with in-game compatible color codes
 ![Example Output](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/blob/18e503d9bd67b129515f615ea7ab298a88ecc5a6/Images/Example1.png)
 ---
 
+## 💾 How To Install
+
+1. Download the latest release from the [Releases page](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/releases)
+2. Extract the `.zip`
+3. Run the `.exe` file inside
+
 ## 💡 How It Works
 
 - Enter a username with **spaces** to indicate new color combinations.
