@@ -37,5 +37,6 @@ This tool allows you to visually craft names with in-game compatible color codes
 ```bash
 Input: Xx_Sniper_xX
 ```
-Output with `combined` printer: 
+Output with `combined` printer:
+
 ![Example output2](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/blob/7fb4eb8b927e9e6397b54bd3d3e1407eb2745f34/Images/Example2.png)
