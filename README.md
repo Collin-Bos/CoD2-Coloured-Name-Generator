@@ -1,9 +1,9 @@
-# CoD2 Coloured Name Generator 🎮🎨
+# CoD2 Coloured Name Generator
 
 ![Example Output](./example-output.png)
 
 A console-based tool for generating colorful usernames for **Call of Duty 2**.  
-This tool allows you to visually craft names with in-game compatible color codes, experiment with different styles, and output formats, including copy-paste ready `/name` commands.
+This tool allows you to visually craft names with in-game compatible color codes, experiment with different styles, and output formats.
 
 ---
 
@@ -22,8 +22,8 @@ This tool allows you to visually craft names with in-game compatible color codes
 | `/commands`                | Lists all available commands and their descriptions. |
 | `/clear`                   | Clears the console output. |
 | `/exit`                    | Exits the program. |
-| `/exclude <indexes>`       | Excludes specific color indexes from generation. |
-| `/include <indexes>`       | Includes only the specified color indexes for generation. |
+| `/exclude <index>`       | Excludes specific color indexes from generation. |
+| `/include <index>`       | Includes only the specified color indexes for generation. |
 | `/printer <type>`          | Changes the output style. Options: `default`, `cod2` `combined`.<br/> - `default`: What your name will look like in-game.<br/> - `cod2`: Copy-pasteable output for the `/name` command in CoD2.<br/> - `combined`: Both default and cod2 side by side |
 | `/settings`                | Displays current settings including active colors. |
 | `/colors`                  | Shows all available colors along with their CoD index. |
