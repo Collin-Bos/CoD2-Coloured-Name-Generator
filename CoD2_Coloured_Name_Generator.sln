@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoD2_Coloured_Name_Generator", "CoD2_Coloured_Name_Generator\CoD2_Coloured_Name_Generator.csproj", "{9A5ACD8F-E6A3-4AF9-8965-37FD58F8980B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A5ACD8F-E6A3-4AF9-8965-37FD58F8980B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A5ACD8F-E6A3-4AF9-8965-37FD58F8980B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A5ACD8F-E6A3-4AF9-8965-37FD58F8980B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A5ACD8F-E6A3-4AF9-8965-37FD58F8980B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18E18927-F3FD-4695-B79E-70B82FC3F445}
+	EndGlobalSection
+EndGlobal
