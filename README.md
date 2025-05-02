@@ -1,10 +1,9 @@
 # CoD2 Coloured Name Generator
 
-![Example Output](./example-output.png)
-
 A console-based tool for generating colorful usernames for **Call of Duty 2**.  
 This tool allows you to visually craft names with in-game compatible color codes, experiment with different styles, and output formats.
 
+![Example Output](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/blob/18e503d9bd67b129515f615ea7ab298a88ecc5a6/Images/Example1.png)
 ---
 
 ## 💡 How It Works
@@ -36,5 +35,8 @@ This tool allows you to visually craft names with in-game compatible color codes
 ## 📷 Example
 
 ```bash
-Input: cool _name pro
-Output: (shows multi-colored name with default and cod2-style printer outputs)
+Input: Xx_Sniper_xX
+```
+Output with `combined` printer:
+
+![Example output2](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/blob/7fb4eb8b927e9e6397b54bd3d3e1407eb2745f34/Images/Example2.png)
