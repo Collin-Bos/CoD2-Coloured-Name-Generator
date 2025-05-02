@@ -39,4 +39,4 @@ Input: Xx_Sniper_xX
 ```
 Output with `combined` printer:
 
-![Example output2](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/blob/7fb4eb8b927e9e6397b54bd3d3e1407eb2745f34/Images/Example2.png)
+![Example output2](https://github.com/Collin-Bos/CoD2-Coloured-Name-Generator/blob/744335c95a96dec101f4d62ecfc937c1a44026e3/Images/Example2.png)
